@@ -1,3 +1,5 @@
 Menambahkan file2.txt ke belajar-version-control-v2
 Testing merge conflict melalui branch main
 dan disini saya ada beberapa perubahan 
+
+Testing merge conflict
